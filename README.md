@@ -4,7 +4,9 @@
 
 Assets for creating tilemap with synoptic symbols used in SYNOP code.
 
-SVG files from [WikiMedia](https://commons.wikimedia.org/wiki/Weather_map)
+SVG files from [WikiMedia](https://commons.wikimedia.org/wiki/Weather_map).
+
+Generated tilemap is used for [drawing SYNOPs on HTML canvas](https://github.com/alexander-travov/synop_canvas).
 
 ## Requirements:
 
