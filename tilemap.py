@@ -1,6 +1,5 @@
 import sys
 import os.path as op
-from glob import glob
 from PIL import Image
 
 W = int(sys.argv[1])
