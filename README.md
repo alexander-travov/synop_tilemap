@@ -1,8 +1,10 @@
 # synop\_tilemap
 
+![SYNOP Tilemap](png/tilemap24.png)
+
 Assets for creating tilemap with synoptic symbols used in SYNOP code.
 
-SVG files from (WikiMedia)[https://commons.wikimedia.org/wiki/Weather_map]
+SVG files from [WikiMedia](https://commons.wikimedia.org/wiki/Weather_map)
 
 ## Requirements:
 
@@ -19,5 +21,5 @@ apt install python-pil inkscape pngquant
 Create 36px SYNOP tilemap. Output: `png/tilemap36.png`
 
 ```sh
-    ./tilemap.sh 36
+./tilemap.sh 36
 ```
