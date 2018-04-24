@@ -1,2 +1,3 @@
 *.py[cod]
-png
+png/*
+!png/tilemap*.png
